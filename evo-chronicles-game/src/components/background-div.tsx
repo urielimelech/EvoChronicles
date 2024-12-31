@@ -1,9 +1,15 @@
-import React from "react";
+import React, { ReactNode } from "react";
 import { StyledBackgroundDiv } from "../styles/styled-background-div";
 
-export const BackgroundDiv = ({ background }: { background: string }) => {
-    console.log({background});
+interface BackgroundDivProps {
+    children?: ReactNode;
+    background: string;
+}
+
+export const BackgroundDiv: React.FC<BackgroundDivProps> = ({ children, background }) => {
     return (
-        <StyledBackgroundDiv background={background} />
+        <StyledBackgroundDiv background={background} >
+            {children}
+        </StyledBackgroundDiv>
     )
 }

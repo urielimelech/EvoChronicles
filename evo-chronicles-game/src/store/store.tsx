@@ -1,32 +1,14 @@
-import { configureStore, createSlice, PayloadAction } from '@reduxjs/toolkit';
-import { mainScreenBackground, stoneAgeBackground } from '../assets/imports';
-
-// Define initial state
-const initialState = {
-    background: '',
-};
-
-// Create a slice
-const backgroundSlice = createSlice({
-    name: 'background',
-    initialState,
-    reducers: {
-        mainScreenAction: (state) => {
-            state.background = mainScreenBackground;
-        },
-        stoneAgeScreenAction: (state) => {
-            state.background = stoneAgeBackground
-        },
-    },
-});
-
-// Export actions
-export const { mainScreenAction, stoneAgeScreenAction } = backgroundSlice.actions;
+import { configureStore } from '@reduxjs/toolkit';
+import { levelSlice } from '../reducers/level-reducer';
+import { backgroundSlice } from '../reducers/screen-reducer';
+import { experienceSlice } from '../reducers/experience-reducer';
 
 // Create a Redux store
 const store = configureStore({
     reducer: {
         background: backgroundSlice.reducer,
+        level: levelSlice.reducer,
+        experience: experienceSlice.reducer,
     },
 });
 

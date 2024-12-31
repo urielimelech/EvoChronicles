@@ -1,0 +1,118 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.3">
+  <diagram name="Page-1" id="I84FfX916bPBLPPjchP9">
+    <mxGraphModel dx="1379" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QrfYkWYvxAsWrcG3uflY-1" value="Paleolithic Era&lt;div&gt;&lt;br&gt;&lt;div&gt;- hunting&lt;/div&gt;&lt;div&gt;- survival (fire)&lt;/div&gt;&lt;div&gt;- crafting&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="30" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QrfYkWYvxAsWrcG3uflY-2" value="Neolithic Era&lt;div&gt;&lt;br&gt;&lt;div&gt;- settlements&lt;/div&gt;&lt;div&gt;- farming&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="30" y="150" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QrfYkWYvxAsWrcG3uflY-3" value="skills:&lt;br&gt;&lt;br&gt;fire starting&lt;div&gt;stone tools crafting&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=10;" vertex="1" parent="1">
+          <mxGeometry x="230" y="40" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QrfYkWYvxAsWrcG3uflY-4" value="skills:&lt;br&gt;&lt;br&gt;agriculture&lt;div&gt;animal domestication&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=10;" vertex="1" parent="1">
+          <mxGeometry x="230" y="150" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QrfYkWYvxAsWrcG3uflY-5" value="Bronze Era&lt;div&gt;&lt;br&gt;&lt;div&gt;- metallurgy&lt;/div&gt;&lt;div&gt;- commerce&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="30" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QrfYkWYvxAsWrcG3uflY-6" value="skills:&lt;br&gt;&lt;br&gt;trade&lt;div&gt;bronze tools crafting&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=10;" vertex="1" parent="1">
+          <mxGeometry x="230" y="260" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QrfYkWYvxAsWrcG3uflY-7" value="skills:&lt;br&gt;&lt;br&gt;construction&lt;div&gt;iron tools crafting&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=10;" vertex="1" parent="1">
+          <mxGeometry x="230" y="370" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QrfYkWYvxAsWrcG3uflY-8" value="Iron Era&lt;div&gt;&lt;br&gt;&lt;div&gt;- advanced tools&lt;/div&gt;&lt;/div&gt;&lt;div&gt;- growth of empire&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="30" y="370" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QrfYkWYvxAsWrcG3uflY-9" value="skills:&lt;br&gt;&lt;br&gt;advanced governance&lt;div&gt;cultural development&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=10;" vertex="1" parent="1">
+          <mxGeometry x="230" y="490" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QrfYkWYvxAsWrcG3uflY-10" value="Classical Era&lt;div&gt;&lt;br&gt;&lt;div&gt;- art&lt;/div&gt;&lt;/div&gt;&lt;div&gt;- science&lt;/div&gt;&lt;div&gt;- philosophy&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="30" y="490" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QrfYkWYvxAsWrcG3uflY-11" value="skills:&lt;br&gt;&lt;br&gt;invention&lt;br&gt;&lt;div&gt;navigation&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=10;" vertex="1" parent="1">
+          <mxGeometry x="230" y="740" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QrfYkWYvxAsWrcG3uflY-12" value="Renaissance Era&lt;div&gt;&lt;br&gt;&lt;div&gt;- discoveries&lt;/div&gt;&lt;/div&gt;&lt;div&gt;- explorations&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="30" y="740" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QrfYkWYvxAsWrcG3uflY-13" value="skills:&lt;br&gt;&lt;br&gt;factory building&lt;br&gt;&lt;div&gt;steam power&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=10;" vertex="1" parent="1">
+          <mxGeometry x="230" y="850" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QrfYkWYvxAsWrcG3uflY-14" value="Industrial Era&lt;div&gt;&lt;br&gt;&lt;div&gt;- mechanization &lt;/div&gt;&lt;/div&gt;&lt;div&gt;- mass production&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="30" y="850" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QrfYkWYvxAsWrcG3uflY-15" value="skills:&lt;br&gt;&lt;br&gt;engineering&lt;br&gt;&lt;div&gt;scientific breakthroughs&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=10;" vertex="1" parent="1">
+          <mxGeometry x="230" y="960" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QrfYkWYvxAsWrcG3uflY-16" value="Modern Era&lt;div&gt;&lt;br&gt;&lt;div&gt;- electricity&lt;/div&gt;&lt;/div&gt;&lt;div&gt;- global communications&lt;/div&gt;&lt;div&gt;- automobiles&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="30" y="960" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QrfYkWYvxAsWrcG3uflY-17" value="skills:&lt;br&gt;&lt;br&gt;programming&lt;br&gt;&lt;div&gt;robotics&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=10;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1070" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QrfYkWYvxAsWrcG3uflY-18" value="Digital Era&lt;div&gt;&lt;br&gt;&lt;div&gt;- computers&lt;/div&gt;&lt;/div&gt;&lt;div&gt;- internet&lt;/div&gt;&lt;div&gt;- advanced technology&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1070" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QrfYkWYvxAsWrcG3uflY-19" value="skills:&lt;br&gt;&lt;br&gt;space travel&lt;br&gt;&lt;div&gt;renewable energy&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=10;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1190" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QrfYkWYvxAsWrcG3uflY-20" value="Near future Era&lt;div&gt;&lt;br&gt;&lt;div&gt;- space exploration&lt;/div&gt;&lt;/div&gt;&lt;div&gt;- artificial intelligence&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1190" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QrfYkWYvxAsWrcG3uflY-21" value="skills:&lt;br&gt;&lt;br&gt;terraforming&lt;br&gt;&lt;div&gt;time manipulation&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=10;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1300" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QrfYkWYvxAsWrcG3uflY-22" value="Distant future Era&lt;div&gt;&lt;br&gt;&lt;div&gt;- interstellar civilizations&lt;/div&gt;&lt;/div&gt;&lt;div&gt;- futuristic technology&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1300" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QrfYkWYvxAsWrcG3uflY-23" value="tasks&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Spark of Survival&lt;/div&gt;&lt;div&gt;-&amp;nbsp;Fire Maker&lt;/div&gt;&lt;div&gt;-&amp;nbsp;Tool Crafter&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QrfYkWYvxAsWrcG3uflY-24" value="tasks&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-&amp;nbsp;Settler&#39;s First Step&lt;/div&gt;&lt;div&gt;-&amp;nbsp;Seed Sower&lt;/div&gt;&lt;div&gt;-&amp;nbsp;Herd Keeper&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="150" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QrfYkWYvxAsWrcG3uflY-25" value="tasks&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-&amp;nbsp;Ore Seeker&lt;/div&gt;&lt;div&gt;-&amp;nbsp;Trade Pioneer&lt;/div&gt;&lt;div&gt;-&amp;nbsp;Builder of Wonders&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QrfYkWYvxAsWrcG3uflY-26" value="tasks&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-&amp;nbsp;Iron Forging&lt;/div&gt;&lt;div&gt;-&amp;nbsp;Warrior’s Path&lt;/div&gt;&lt;div&gt;-&amp;nbsp;Civic Leader&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="370" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QrfYkWYvxAsWrcG3uflY-27" value="tasks&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-&amp;nbsp; Knowledge Seeker&lt;/div&gt;&lt;div&gt;-&amp;nbsp;City Planner&lt;/div&gt;&lt;div&gt;-&amp;nbsp;Cultural Spread&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="490" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QrfYkWYvxAsWrcG3uflY-28" value="tasks&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-&amp;nbsp;Artist’s Vision&lt;/div&gt;&lt;div&gt;-&amp;nbsp;Inventor’s Mind&lt;/div&gt;&lt;div&gt;-&amp;nbsp;Explorer’s Voyage&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="740" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QrfYkWYvxAsWrcG3uflY-29" value="tasks&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-&amp;nbsp;Factory Founder&lt;/div&gt;&lt;div&gt;-&amp;nbsp;Power Innovator&lt;/div&gt;&lt;div&gt;-&amp;nbsp; Urban Architect&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="850" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QrfYkWYvxAsWrcG3uflY-30" value="tasks&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-&amp;nbsp;Engine Driver&lt;/div&gt;&lt;div&gt;-&amp;nbsp;Scientific Breakthrough&lt;/div&gt;&lt;div&gt;-&amp;nbsp;Global Communicator&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="960" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QrfYkWYvxAsWrcG3uflY-31" value="tasks&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-&amp;nbsp;Code Crafter&lt;/div&gt;&lt;div&gt;-&amp;nbsp;Data Networker&lt;/div&gt;&lt;div&gt;-&amp;nbsp;Virtual Creator&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="1070" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QrfYkWYvxAsWrcG3uflY-32" value="tasks&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-&amp;nbsp;Space Pathfinder&lt;/div&gt;&lt;div&gt;-&amp;nbsp; Energy Innovator&lt;/div&gt;&lt;div&gt;-&amp;nbsp;Colonization Pioneer&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="1190" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QrfYkWYvxAsWrcG3uflY-33" value="tasks&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-&amp;nbsp;Galactic Explorer&lt;/div&gt;&lt;div&gt;-&amp;nbsp;Terraformer&lt;/div&gt;&lt;div&gt;-&amp;nbsp;Chrono Manipulator&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="1300" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QrfYkWYvxAsWrcG3uflY-35" value="Medieval Era&lt;div&gt;&lt;br&gt;&lt;div&gt;- knights&lt;/div&gt;&lt;/div&gt;&lt;div&gt;- castles&lt;/div&gt;&lt;div&gt;- feudal system&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="30" y="610" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QrfYkWYvxAsWrcG3uflY-36" value="skills:&lt;br&gt;&lt;br&gt;siege warfare&lt;br&gt;&lt;div&gt;armor crafting&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=10;" vertex="1" parent="1">
+          <mxGeometry x="230" y="610" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QrfYkWYvxAsWrcG3uflY-37" value="tasks&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-&amp;nbsp;Knight’s Call&lt;/div&gt;&lt;div&gt;-&amp;nbsp;Artisan’s Craft&lt;/div&gt;&lt;div&gt;-&amp;nbsp;Siege Strategist&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="610" width="180" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

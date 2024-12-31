@@ -3,7 +3,8 @@ import { createSlice } from "@reduxjs/toolkit"
 const experienceState = {
     xp: 0,
     multiplier: 1,
-    maxXp: 100
+    maxXp: 10,
+    characterLevel: 1
 }
 
 export const experienceSlice = createSlice({
@@ -12,6 +13,11 @@ export const experienceSlice = createSlice({
     reducers: {
         gainXP: (state, action) => {
             state.xp += (action.payload * state.multiplier)
+            if (state.xp >= state.maxXp) {
+                state.xp = state.xp - state.maxXp
+                state.maxXp *= (state.characterLevel / 100)
+                state.characterLevel += 1
+            }
         },
         updateMultiplier: (state, action) => {
             state.multiplier += action.payload

@@ -1,13 +1,11 @@
 import { configureStore } from '@reduxjs/toolkit';
-import { levelSlice } from '../reducers/level-reducer';
-import { backgroundSlice } from '../reducers/screen-reducer';
+import { stageSlice } from '../reducers/stage-reducer';
 import { experienceSlice } from '../reducers/experience-reducer';
 
 // Create a Redux store
 const store = configureStore({
     reducer: {
-        background: backgroundSlice.reducer,
-        level: levelSlice.reducer,
+        stage: stageSlice.reducer,
         experience: experienceSlice.reducer,
     },
 });

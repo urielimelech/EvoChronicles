@@ -1,8 +1,40 @@
-import React from "react";
+import React, { useState } from "react";
 import { StyledRectButton } from "../styles/styled-rect-button";
+import { StyledTooltip } from "../styles/styled-tooltip";
 
-export const RectButton = ({ onClick, text }: { onClick: () => void, text: string }) => {
+interface RectButtonProps {
+    onClick: () => void;
+    text: string;
+    description?: string;
+    disabled?: boolean;
+}
+
+export const RectButton: React.FC<RectButtonProps> = ({ onClick, text, description, disabled }) => {
+    const [showTooltip, setShowTooltip] = useState(false);
+
+    const handleMouseEnter = () => {
+        if (description)
+            setShowTooltip(true);
+    };
+
+    const handleMouseLeave = () => {
+        setShowTooltip(false);
+    };
+
     return (
-        <StyledRectButton onClick={onClick}>{text}</StyledRectButton>
+        <div style={{ position: 'relative', display: 'inline-block' }}>
+            <StyledRectButton
+                onClick={onClick}
+                onMouseEnter={handleMouseEnter}
+                onMouseLeave={handleMouseLeave}
+                disabled={disabled}
+            >
+                {text}
+            </StyledRectButton>
+            {showTooltip &&
+                <StyledTooltip>
+                    {description}
+                </StyledTooltip>}
+        </div>
     )
 }

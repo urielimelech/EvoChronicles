@@ -5,6 +5,8 @@ export const colors = {
     hover: '#3d3d3d',
     primaryButton: '#2d2d2d',
     secondaryButton: '#f4f4f4',
+    disabled: '#d3d3d3',
+    textDisabled: '#a9a9a9',
     brownLight: '#d2b48c',
     brown: '#a52a2a',
     brownDark: '#654321',
